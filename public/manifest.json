@@ -1,4 +1,6 @@
 {
+    "name": "Budget-Tracker",
+    "short_name": "Budget-Tracker",
     "icons": [
       {
         "src": "icons/icon-512x512.png",
@@ -41,11 +43,9 @@
         "type": "image/png"
       }
     ],
-    "name": "budget-tracker",
-    "short_name": "budget-tracker",
-    "start_url": "./index.html",
+    "start_url": "/",
     "description": "An app that allows you to view withdrawls and deposits in your bank account.",
-    "theme_color": "#ffffff",
+    "theme_color": "##317EFB",
     "background_color": "#ffffff",
     "display": "standalone"
   }
